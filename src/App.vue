@@ -1,8 +1,34 @@
 <template>
   <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+    <nav class="ui menu">
+      <div class="ui dropdown link item simple">
+        <span class="text">第一章</span>
+        <i class="dropdown icon"></i>
+        <div class="menu">
+          <router-link class="item" to="/">1.1節</router-link>
+          <router-link class="item" to="/a2">1.2節</router-link>
+          <router-link class="item" to="/a3">1.3節</router-link>
+          <router-link class="item" to="/a4">1.4節</router-link>
+          <router-link class="item" to="/a5">1.5節</router-link>
+          <router-link class="item" to="/a6">1.6節</router-link>
+          <router-link class="item" to="/a7">1.7節</router-link>
+          <router-link class="item" to="/a8">1.8節</router-link>
+        </div>
+      </div>
+      <div class="ui dropdown link item simple">
+        <span class="text">第二章</span>
+        <i class="dropdown icon"></i>
+        <div class="menu">
+          <router-link class="item" to="/b1">2.1節</router-link>
+          <router-link class="item" to="/b2">2.2節</router-link>
+          <router-link class="item" to="/b3">2.3節</router-link>
+          <router-link class="item" to="/b4">2.4節</router-link>
+          <router-link class="item" to="/b5">2.5節</router-link>
+          <router-link class="item" to="/b6">2.6節</router-link>
+          <router-link class="item" to="/b7">2.7節</router-link>
+          <router-link class="item" to="/b8">2.8節</router-link>
+        </div>
+      </div>
     </nav>
     <router-view/>
     <ad></ad>
@@ -27,19 +53,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-}
-
-nav {
-  padding: 30px;
-}
-
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-nav a.router-link-exact-active {
-  color: #42b983;
 }
 
 p {
