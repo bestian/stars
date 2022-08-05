@@ -32,5 +32,6 @@ nav a.router-link-exact-active {
 
 p {
   text-align: left;
+  font-size: 18px;
 }
 </style>
