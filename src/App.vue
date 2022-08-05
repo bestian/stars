@@ -5,8 +5,20 @@
       <router-link to="/about">About</router-link>
     </nav>
     <router-view/>
+    <ad></ad>
   </div>
 </template>
+
+<script type="text/javascript">
+
+import Ad from './components/Ad.vue'
+export default {
+  name: 'App',
+  components: {
+    Ad
+  }
+}
+</script>
 
 <style>
 #app {

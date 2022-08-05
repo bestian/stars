@@ -2450,7 +2450,7 @@
       p 怪物一定該死嗎？或許我們可以再想想何謂怪物。
 
 </template>
-x
+
 <script>
 export default {
   name: 'HelloWorld',
