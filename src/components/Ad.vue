@@ -23,7 +23,7 @@ export default {
   position: static;
   z-index: 2;
   width: 100vw;
-  height: 3em;
+  height: 20em;
   text-align: center;
   background-color: white;
 }

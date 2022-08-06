@@ -41,7 +41,36 @@
           <router-link class="item" to="/work">3.7節</router-link>
         </div>
       </div>
+      <div class="ui dropdown link item simple">
+        <span class="text">第四章</span>
+        <i class="dropdown icon"></i>
+        <div class="menu">
+          <router-link class="item" to="/work">4.1節</router-link>
+          <router-link class="item" to="/work">4.2節</router-link>
+          <router-link class="item" to="/work">4.3節</router-link>
+          <router-link class="item" to="/work">4.4節</router-link>
+          <router-link class="item" to="/work">4.5節</router-link>
+          <router-link class="item" to="/work">4.6節</router-link>
+          <router-link class="item" to="/work">4.7節</router-link>
+        </div>
+      </div>
+      <div class="ui dropdown link item simple">
+        <span class="text">第五章</span>
+        <i class="dropdown icon"></i>
+        <div class="menu">
+          <router-link class="item" to="/work">5.1節</router-link>
+          <router-link class="item" to="/work">5.2節</router-link>
+          <router-link class="item" to="/work">5.3節</router-link>
+          <router-link class="item" to="/work">5.4節</router-link>
+          <router-link class="item" to="/work">5.5節</router-link>
+          <router-link class="item" to="/work">5.6節</router-link>
+          <router-link class="item" to="/work">5.7節</router-link>
+        </div>
+      </div>
     </nav>
+    <div class="stars">
+      <img src="./assets/stars.png"/>
+    </div>
     <router-view/>
     <ad></ad>
   </div>
@@ -59,12 +88,21 @@ export default {
 </script>
 
 <style>
+
+html, body {
+  background-color: #999;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+}
+
+.stars img {
+  width: 150px;
 }
 
 p {
