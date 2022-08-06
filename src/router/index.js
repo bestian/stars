@@ -81,6 +81,41 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../components/B7.vue')
   },
   {
+    path: '/c1',
+    name: 'C1',
+    component: () => import(/* webpackChunkName: "about" */ '../components/C1.vue')
+  },
+  {
+    path: '/c2',
+    name: 'C2',
+    component: () => import(/* webpackChunkName: "about" */ '../components/C2.vue')
+  },
+  {
+    path: '/c3',
+    name: 'C3',
+    component: () => import(/* webpackChunkName: "about" */ '../components/C3.vue')
+  },
+  {
+    path: '/c4',
+    name: 'C4',
+    component: () => import(/* webpackChunkName: "about" */ '../components/C4.vue')
+  },
+  {
+    path: '/c5',
+    name: 'C5',
+    component: () => import(/* webpackChunkName: "about" */ '../components/C5.vue')
+  },
+  {
+    path: '/c6',
+    name: 'C6',
+    component: () => import(/* webpackChunkName: "about" */ '../components/C6.vue')
+  },
+  {
+    path: '/c7',
+    name: 'C7',
+    component: () => import(/* webpackChunkName: "about" */ '../components/C7.vue')
+  },
+  {
     path: '/about',
     name: 'about',
     // route level code-splitting

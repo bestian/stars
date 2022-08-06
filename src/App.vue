@@ -32,7 +32,7 @@
         <span class="text">第三章</span>
         <i class="dropdown icon"></i>
         <div class="menu">
-          <router-link class="item" to="/work">3.1節</router-link>
+          <router-link class="item" to="/c1">3.1節</router-link>
           <router-link class="item" to="/work">3.2節</router-link>
           <router-link class="item" to="/work">3.3節</router-link>
           <router-link class="item" to="/work">3.4節</router-link>
