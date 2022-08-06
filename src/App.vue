@@ -67,6 +67,9 @@
           <router-link class="item" to="/work">5.7節</router-link>
         </div>
       </div>
+      <div class="right menu">
+        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fbestian.github.io%2Fstars%2F%23%2F&layout=button_count&size=large&appId=485195848253155&width=80&height=28" width="80" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+      </div>
     </nav>
     <div class="stars">
       <img src="./assets/stars.png"/>
