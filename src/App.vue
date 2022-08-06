@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <nav class="ui menu">
+    <nav class="ui top menu">
       <div class="ui dropdown link item simple">
         <span class="text">第一章</span>
         <i class="dropdown icon"></i>

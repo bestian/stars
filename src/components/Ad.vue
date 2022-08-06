@@ -1,13 +1,9 @@
 <template>
   <div class="ad">
+    <div class="ui divider"></div>
     <h3>喜歡這篇小說嗎?</h3>
-    <p>按此打賞作者$NT100元</p>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="W55V3YXT4Y57E">
-      <input type="image" src="https://www.paypalobjects.com/zh_TW/TW/i/btn/btn_buynowCC_LG_wCUP.gif" border="0" name="submit" alt="PayPal － 更安全、更簡單的線上付款方式！">
-      <img alt="" border="0" src="https://www.paypalobjects.com/zh_TW/i/scr/pixel.gif" width="1" height="1">
-      </form>
+    <h4>掃此打賞作者$NT100元</h4>
+    <img src="../assets/100.png" />
   </div>
 
 </template>
@@ -24,13 +20,10 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .ad {
-  text-align: left;
-  position: fixed;
   z-index: 2;
-  width: 220px;
+  width: 100vw;
   height: 3em;
-  top: 0;
-  right: 0;
+  text-align: center;
   background-color: white;
 }
 
