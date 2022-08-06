@@ -26,7 +26,19 @@
           <router-link class="item" to="/b5">2.5節</router-link>
           <router-link class="item" to="/b6">2.6節</router-link>
           <router-link class="item" to="/b7">2.7節</router-link>
-          <router-link class="item" to="/b8">2.8節</router-link>
+        </div>
+      </div>
+      <div class="ui dropdown link item simple">
+        <span class="text">第三章</span>
+        <i class="dropdown icon"></i>
+        <div class="menu">
+          <router-link class="item" to="/work">3.1節</router-link>
+          <router-link class="item" to="/work">3.2節</router-link>
+          <router-link class="item" to="/work">3.3節</router-link>
+          <router-link class="item" to="/work">3.4節</router-link>
+          <router-link class="item" to="/work">3.5節</router-link>
+          <router-link class="item" to="/work">3.6節</router-link>
+          <router-link class="item" to="/work">3.7節</router-link>
         </div>
       </div>
     </nav>

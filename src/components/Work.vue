@@ -1,9 +1,8 @@
 <template>
-  <div class="ad">
+  <div class="work">
     <div class="ui divider"></div>
-    <h3>喜歡這篇小說嗎?</h3>
-    <h4>掃此打賞作者$NT100元</h4>
-    <img src="../assets/100.png" />
+    <img src="../assets/stars.png"/>
+    <h3>本章節施工中...即將登場</h3>
   </div>
 
 </template>
@@ -19,11 +18,11 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-.ad {
+.work {
   position: static;
   z-index: 2;
   width: 100vw;
-  height: 3em;
+  height: 30em;
   text-align: center;
   background-color: white;
 }
