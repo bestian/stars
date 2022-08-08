@@ -33,12 +33,12 @@
         <i class="dropdown icon"></i>
         <div class="menu">
           <router-link class="item" to="/c1">3.1節</router-link>
-          <router-link class="item" to="/work">3.2節</router-link>
-          <router-link class="item" to="/work">3.3節</router-link>
-          <router-link class="item" to="/work">3.4節</router-link>
-          <router-link class="item" to="/work">3.5節</router-link>
-          <router-link class="item" to="/work">3.6節</router-link>
-          <router-link class="item" to="/work">3.7節</router-link>
+          <router-link class="item" to="/c2">3.2節</router-link>
+          <router-link class="item" to="/c3">3.3節</router-link>
+          <router-link class="item" to="/c4">3.4節</router-link>
+          <router-link class="item" to="/c5">3.5節</router-link>
+          <router-link class="item" to="/c6">3.6節</router-link>
+          <router-link class="item" to="/c7">3.7節</router-link>
         </div>
       </div>
       <div class="ui dropdown link item simple">

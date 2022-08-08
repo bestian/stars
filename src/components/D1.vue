@@ -189,7 +189,7 @@
       p 這只是第一個陷阱。
 
       .ui.buttons
-        router-link.ui.green.huge.button(to = "/c2") 3.2節
+        router-link.ui.green.huge.button(to = "/work") 3.2節
 </template>
 
 <script>

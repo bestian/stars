@@ -311,7 +311,7 @@
       p 雖然小說背景是虛構的，但是中斷、打擊、陪伴、支持，還有無助的感覺與助人的力道，這些都是真實不虛的。
 
       .ui.buttons
-        router-link.ui.orange.huge.button(to = "/c6") 3.6節
+        router-link.ui.orange.huge.button(to = "/c6") 2.6節
         router-link.ui.green.huge.button(to = "/work") 4.1節
 
 </template>
