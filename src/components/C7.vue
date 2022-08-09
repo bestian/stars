@@ -312,7 +312,7 @@
 
       .ui.buttons
         router-link.ui.orange.huge.button(to = "/c6") 3.6節
-        router-link.ui.green.huge.button(to = "/work") 4.1節
+        router-link.ui.green.huge.button(to = "/d1") 4.1節
 
 </template>
 

@@ -54,8 +54,8 @@
       p 一個看不清面目的影子殺手，衝上前來，一刀刺進烏風的心臟。
 
       .ui.buttons
-        router-link.ui.orange.huge.button(to = "/C3") 3.3節
-        router-link.ui.green.huge.button(to = "/C5") 3.5節
+        router-link.ui.orange.huge.button(to = "/c3") 3.3節
+        router-link.ui.green.huge.button(to = "/c5") 3.5節
 
 </template>
 

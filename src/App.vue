@@ -45,13 +45,14 @@
         <span class="text">第四章</span>
         <i class="dropdown icon"></i>
         <div class="menu">
-          <router-link class="item" to="/work">4.1節</router-link>
-          <router-link class="item" to="/work">4.2節</router-link>
-          <router-link class="item" to="/work">4.3節</router-link>
-          <router-link class="item" to="/work">4.4節</router-link>
-          <router-link class="item" to="/work">4.5節</router-link>
-          <router-link class="item" to="/work">4.6節</router-link>
-          <router-link class="item" to="/work">4.7節</router-link>
+          <router-link class="item" to="/d1">4.1節</router-link>
+          <router-link class="item" to="/d2">4.2節</router-link>
+          <router-link class="item" to="/d3">4.3節</router-link>
+          <router-link class="item" to="/d4">4.4節</router-link>
+          <router-link class="item" to="/d5">4.5節</router-link>
+          <router-link class="item" to="/d6">4.6節</router-link>
+          <router-link class="item" to="/d7">4.7節</router-link>
+          <router-link class="item" to="/d8">4.8節</router-link>
         </div>
       </div>
       <div class="ui dropdown link item simple">
