@@ -116,6 +116,46 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../components/C7.vue')
   },
   {
+    path: '/d1',
+    name: 'D1',
+    component: () => import(/* webpackChunkName: "about" */ '../components/D1.vue')
+  },
+  {
+    path: '/d2',
+    name: 'D2',
+    component: () => import(/* webpackChunkName: "about" */ '../components/D2.vue')
+  },
+  {
+    path: '/D3',
+    name: 'D3',
+    component: () => import(/* webpackChunkName: "about" */ '../components/D3.vue')
+  },
+  {
+    path: '/d4',
+    name: 'D4',
+    component: () => import(/* webpackChunkName: "about" */ '../components/D4.vue')
+  },
+  {
+    path: '/d5',
+    name: 'D5',
+    component: () => import(/* webpackChunkName: "about" */ '../components/D5.vue')
+  },
+  {
+    path: '/d6',
+    name: 'D6',
+    component: () => import(/* webpackChunkName: "about" */ '../components/D6.vue')
+  },
+  {
+    path: '/d7',
+    name: 'D7',
+    component: () => import(/* webpackChunkName: "about" */ '../components/D7.vue')
+  },
+  {
+    path: '/d8',
+    name: 'D8',
+    component: () => import(/* webpackChunkName: "about" */ '../components/D8.vue')
+  },
+  {
     path: '/about',
     name: 'about',
     // route level code-splitting
