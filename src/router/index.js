@@ -126,7 +126,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../components/D2.vue')
   },
   {
-    path: '/D3',
+    path: '/d3',
     name: 'D3',
     component: () => import(/* webpackChunkName: "about" */ '../components/D3.vue')
   },
@@ -154,6 +154,41 @@ const routes = [
     path: '/d8',
     name: 'D8',
     component: () => import(/* webpackChunkName: "about" */ '../components/D8.vue')
+  },
+  {
+    path: '/e1',
+    name: 'E1',
+    component: () => import(/* webpackChunkName: "about" */ '../components/E1.vue')
+  },
+  {
+    path: '/e2',
+    name: 'E2',
+    component: () => import(/* webpackChunkName: "about" */ '../components/E2.vue')
+  },
+  {
+    path: '/e3',
+    name: 'E3',
+    component: () => import(/* webpackChunkName: "about" */ '../components/E3.vue')
+  },
+  {
+    path: '/e4',
+    name: 'E4',
+    component: () => import(/* webpackChunkName: "about" */ '../components/E4.vue')
+  },
+  {
+    path: '/e5',
+    name: 'E5',
+    component: () => import(/* webpackChunkName: "about" */ '../components/E5.vue')
+  },
+  {
+    path: '/e6',
+    name: 'E6',
+    component: () => import(/* webpackChunkName: "about" */ '../components/E6.vue')
+  },
+  {
+    path: '/e7',
+    name: 'E7',
+    component: () => import(/* webpackChunkName: "about" */ '../components/E7.vue')
   },
   {
     path: '/about',

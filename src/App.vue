@@ -59,13 +59,13 @@
         <span class="text">第五章</span>
         <i class="dropdown icon"></i>
         <div class="menu">
-          <router-link class="item" to="/work">5.1節</router-link>
-          <router-link class="item" to="/work">5.2節</router-link>
-          <router-link class="item" to="/work">5.3節</router-link>
-          <router-link class="item" to="/work">5.4節</router-link>
-          <router-link class="item" to="/work">5.5節</router-link>
-          <router-link class="item" to="/work">5.6節</router-link>
-          <router-link class="item" to="/work">5.7節</router-link>
+          <router-link class="item" to="/e1">5.1節</router-link>
+          <router-link class="item" to="/e2">5.2節</router-link>
+          <router-link class="item" to="/e3">5.3節</router-link>
+          <router-link class="item" to="/e4">5.4節</router-link>
+          <router-link class="item" to="/e5">5.5節</router-link>
+          <router-link class="item" to="/e6">5.6節</router-link>
+          <router-link class="item" to="/e7">5.7節</router-link>
         </div>
       </div>
       <div class="right menu">
