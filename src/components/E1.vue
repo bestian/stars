@@ -109,6 +109,9 @@
       p 安琪注視著牆上的彩繪，沒有翻譯這句話。只見那畫面愈來愈清晰，愈來愈立體…
 
       .ui.buttons
+        router-link.ui.orange.huge.button(to = "/")
+          i.home.icon
+          | 回首頁
         router-link.ui.green.huge.button(to = "/e2") 5.2節
 </template>
 

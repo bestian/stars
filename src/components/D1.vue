@@ -140,6 +140,9 @@
       p 「啊，此事說來話長…有五位英雄，原本都很平凡...」撰史者笑道，笑聲帶著幾許悲涼。
 
       .ui.buttons
+        router-link.ui.orange.huge.button(to = "/")
+          i.home.icon
+          | 回首頁
         router-link.ui.green.huge.button(to = "/d2") 4.2節
 </template>
 

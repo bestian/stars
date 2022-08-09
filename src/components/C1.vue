@@ -189,6 +189,9 @@
       p 這只是第一個陷阱。
 
       .ui.buttons
+        router-link.ui.orange.huge.button(to = "/")
+          i.home.icon
+          | 回首頁
         router-link.ui.green.huge.button(to = "/c2") 3.2節
 </template>
 

@@ -229,6 +229,9 @@
       p 大雪，仍不停地下著。
 
       .ui.buttons
+        router-link.ui.orange.huge.button(to = "/")
+          i.home.icon
+          | 回首頁
         router-link.ui.green.huge.button(to = "/b2") 2.2節
 </template>
 
