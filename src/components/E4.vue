@@ -80,6 +80,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '5.4. 告急'
   }
 }
 </script>

@@ -200,6 +200,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '3.1. 冒險'
   }
 }
 </script>

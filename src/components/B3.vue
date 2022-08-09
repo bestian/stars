@@ -211,6 +211,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '2.3. 聖鎗騎士'
   }
 }
 </script>

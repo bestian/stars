@@ -281,6 +281,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '1.5. 暗血石'
   }
 }
 </script>

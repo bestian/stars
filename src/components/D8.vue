@@ -140,6 +140,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '4.8. 回歸'
   }
 }
 </script>

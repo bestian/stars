@@ -240,6 +240,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '2.7. 戰端'
   }
 }
 </script>

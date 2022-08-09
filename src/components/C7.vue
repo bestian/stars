@@ -321,6 +321,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '3.7. 一搏'
   }
 }
 </script>

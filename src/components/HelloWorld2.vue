@@ -510,6 +510,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '1.3. 踏上旅程'
   }
 }
 </script>

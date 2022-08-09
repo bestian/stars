@@ -121,6 +121,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '5.2. 千年秘境'
   }
 }
 </script>

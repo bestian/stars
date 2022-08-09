@@ -243,6 +243,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '2.4. 危機浮現'
   }
 }
 </script>

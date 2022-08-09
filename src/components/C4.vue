@@ -64,6 +64,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '3.4. 被襲'
   }
 }
 </script>

@@ -245,6 +245,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '1.4. 殺手與神靈'
   }
 }
 </script>

@@ -91,6 +91,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '4.6. 在安全中'
   }
 }
 </script>

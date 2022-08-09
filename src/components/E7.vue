@@ -127,6 +127,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '5.7. 天橋封聖'
   }
 }
 </script>

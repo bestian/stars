@@ -87,6 +87,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '4.5. 抵抗'
   }
 }
 </script>

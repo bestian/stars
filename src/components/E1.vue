@@ -120,6 +120,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '5.1. 重回古墓'
   }
 }
 </script>

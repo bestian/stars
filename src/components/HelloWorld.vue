@@ -305,6 +305,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '1.1. 詩人探險家'
   }
 }
 </script>

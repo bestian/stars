@@ -268,6 +268,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '5.6. 愛森大法師'
   }
 }
 </script>

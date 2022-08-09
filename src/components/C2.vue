@@ -164,6 +164,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '3.2. 魔境'
   }
 }
 </script>

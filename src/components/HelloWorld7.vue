@@ -139,6 +139,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '1.8. 長夜'
   }
 }
 </script>

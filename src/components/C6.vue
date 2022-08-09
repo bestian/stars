@@ -263,6 +263,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '3.6. 尋路'
   }
 }
 </script>

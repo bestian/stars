@@ -166,6 +166,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '2.6. 敵營'
   }
 }
 </script>

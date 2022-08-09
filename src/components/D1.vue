@@ -151,6 +151,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '4.1. 各自的旅程'
   }
 }
 </script>

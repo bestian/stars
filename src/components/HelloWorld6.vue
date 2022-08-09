@@ -436,6 +436,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '1.7. 曲徑奔走'
   }
 }
 </script>

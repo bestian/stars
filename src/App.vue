@@ -87,6 +87,10 @@ export default {
   name: 'App',
   components: {
     Ad
+  },
+  metaInfo: {
+    title: '歡迎',
+    titleTemplate: '%s | 諸星之戰'
   }
 }
 </script>

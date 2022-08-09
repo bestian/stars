@@ -104,6 +104,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '4.7. 決戰'
   }
 }
 </script>

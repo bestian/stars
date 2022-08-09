@@ -286,6 +286,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '1.2. 災星隕落'
   }
 }
 </script>

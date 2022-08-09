@@ -336,6 +336,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '2.2. 沃土別離'
   }
 }
 </script>

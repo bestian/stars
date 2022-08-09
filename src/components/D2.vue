@@ -277,6 +277,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '4.2. 善緣'
   }
 }
 </script>

@@ -166,6 +166,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '4.3. 災難與安頓'
   }
 }
 </script>

@@ -351,6 +351,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '1.6. 月影異士'
   }
 }
 </script>

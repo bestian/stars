@@ -119,6 +119,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '4.4. 目標確定'
   }
 }
 </script>

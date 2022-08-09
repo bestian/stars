@@ -225,6 +225,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '5.5. 悲痛的結局'
   }
 }
 </script>

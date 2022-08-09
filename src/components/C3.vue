@@ -182,6 +182,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '3.3. 安危'
   }
 }
 </script>

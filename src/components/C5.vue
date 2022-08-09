@@ -186,6 +186,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '3.5. 力量湧現'
   }
 }
 </script>

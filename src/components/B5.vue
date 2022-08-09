@@ -232,6 +232,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '2.5. 戰火蔓延'
   }
 }
 </script>

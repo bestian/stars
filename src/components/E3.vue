@@ -180,6 +180,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  metaInfo: {
+    title: '5.3. 危險的交易'
   }
 }
 </script>
